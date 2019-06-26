@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>blog</title>
-      <link>https://zhangmason.github.io/tags/blog/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://zhangmason.github.io/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>reflection</title>
       <link>https://zhangmason.github.io/tags/reflection/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 -0500</pubDate>
@@ -31,11 +22,11 @@
     </item>
     
     <item>
-      <title>entertainment</title>
-      <link>https://zhangmason.github.io/tags/entertainment/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:21 -0500</pubDate>
+      <title>thoughts</title>
+      <link>https://zhangmason.github.io/tags/thoughts/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://zhangmason.github.io/tags/entertainment/</guid>
+      <guid>https://zhangmason.github.io/tags/thoughts/</guid>
       <description></description>
     </item>
     
@@ -45,15 +36,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:21 -0500</pubDate>
       
       <guid>https://zhangmason.github.io/tags/ratings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hobby</title>
-      <link>https://zhangmason.github.io/tags/hobby/</link>
-      <pubDate>Tue, 26 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://zhangmason.github.io/tags/hobby/</guid>
       <description></description>
     </item>
     
