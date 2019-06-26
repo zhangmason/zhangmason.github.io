@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mason Zhang</title>
+    <link>https://zhangmason.github.io/tags/</link>
+    <description>Recent content in Tags on Mason Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://zhangmason.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>blog</title>
+      <link>https://zhangmason.github.io/tags/blog/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reflection</title>
+      <link>https://zhangmason.github.io/tags/reflection/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/tags/reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entertainment</title>
+      <link>https://zhangmason.github.io/tags/entertainment/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:21 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/tags/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ratings</title>
+      <link>https://zhangmason.github.io/tags/ratings/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:21 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/tags/ratings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hobby</title>
+      <link>https://zhangmason.github.io/tags/hobby/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/tags/hobby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://zhangmason.github.io/tags/projects/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

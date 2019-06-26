@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mason Zhang</title>
+    <link>https://zhangmason.github.io/</link>
+    <description>Recent content on Mason Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 25 Jun 2019 20:19:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://zhangmason.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://zhangmason.github.io/about/</link>
+      <pubDate>Tue, 25 Jun 2019 20:19:21 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/about/</guid>
+      <description> Hi, I&amp;rsquo;m Mason. I&amp;rsquo;m currently working as an embedded systems engineer at Ayar Labs.
+I made this website to write about personal projects and thoughts. Feel free to contact me on LinkedIn or social media if you have any comments or questions. I don&amp;rsquo;t actually use the email linked on the front page; I just wanted to see if it would get scraped and spammed.
+History  07 / 2019 - Current: Embedded Systems Engineer, Ayar Labs 09 / 2018 - 12 / 2018: EE Intern, Energy Products, Tesla 05 / 2017 - 08 / 2018: EE Intern, AF Solutions, Medtronic 08 / 2015 - 05 / 2019: Student, Duke University  </description>
+    </item>
+    
+    <item>
+      <title>College</title>
+      <link>https://zhangmason.github.io/thoughts/college/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/thoughts/college/</guid>
+      <description>College is over.
+Placeholder.</description>
+    </item>
+    
+    <item>
+      <title>Ratings 2019</title>
+      <link>https://zhangmason.github.io/thoughts/ratings-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:21 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/thoughts/ratings-2019/</guid>
+      <description>Intro Towards the end of 2018, I took a larger interest in films, largely thanks to a few friends who showed me the amount of thought, planning, and technology that goes into crafting a good movie. I figured I might as well document my viewing history.
+Ratings are mostly based on personal enjoyment, but directing, creativity, and technical aspects are also factored in. My average film rating as of June 25 is 7.</description>
+    </item>
+    
+    <item>
+      <title>Portal Mirrors</title>
+      <link>https://zhangmason.github.io/projects/portal-mirrors/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/projects/portal-mirrors/</guid>
+      <description>Inspiration Planning to make some Portal mirrors to decorate my room once I settle down in California. Inspired by this video.</description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://zhangmason.github.io/projects/website/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/projects/website/</guid>
+      <description>Inspiration I&amp;rsquo;ve been meaning to make a website for a while. In college, the thought process was to create a digital portfolio to showcase my worth. Now that I&amp;rsquo;ve graduated and have some time to kill before starting work, it&amp;rsquo;s mostly just a fun project for self-improvement purposes. I figured that I could document all of my hobby projects and share some of my thoughts online rather than letting everything sit on my hard drive, for my eyes only.</description>
+    </item>
+    
+  </channel>
+</rss>

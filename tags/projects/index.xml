@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on Mason Zhang</title>
+    <link>https://zhangmason.github.io/tags/projects/</link>
+    <description>Recent content in projects on Mason Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://zhangmason.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Portal Mirrors</title>
+      <link>https://zhangmason.github.io/projects/portal-mirrors/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/projects/portal-mirrors/</guid>
+      <description>Inspiration Planning to make some Portal mirrors to decorate my room once I settle down in California. Inspired by this video.</description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://zhangmason.github.io/projects/website/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/projects/website/</guid>
+      <description>Inspiration I&amp;rsquo;ve been meaning to make a website for a while. In college, the thought process was to create a digital portfolio to showcase my worth. Now that I&amp;rsquo;ve graduated and have some time to kill before starting work, it&amp;rsquo;s mostly just a fun project for self-improvement purposes. I figured that I could document all of my hobby projects and share some of my thoughts online rather than letting everything sit on my hard drive, for my eyes only.</description>
+    </item>
+    
+  </channel>
+</rss>
