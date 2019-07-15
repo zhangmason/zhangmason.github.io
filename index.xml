@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 25 Jun 2019 20:19:21 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2019 10:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://zhangmason.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>College</title>
+      <link>https://zhangmason.github.io/thoughts/college/</link>
+      <pubDate>Sat, 06 Jul 2019 10:00:00 -0700</pubDate>
+      
+      <guid>https://zhangmason.github.io/thoughts/college/</guid>
+      <description>This morning, I woke up at 4:30 to drop my family off at the airport. I didn&amp;rsquo;t get much sleep last night - I wasn&amp;rsquo;t really tired until 11, and then I stayed up for another hour when the Kawhi/PG news broke. It was a 45 minute drive to the airport and too early for anyone to feel like talking much. Spent some time hugging everyone and saying goodbye, and that was it.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -20,16 +29,6 @@
       <guid>https://zhangmason.github.io/about/</guid>
       <description>Hi, I&amp;rsquo;m Mason. I&amp;rsquo;m currently located in the Bay Area and working as an embedded systems engineer at Ayar Labs.
 I made this website to write about personal projects and thoughts, so for anything career-related, visit my LinkedIn. Feel free to contact me on social media or by email for anything else.</description>
-    </item>
-    
-    <item>
-      <title>College</title>
-      <link>https://zhangmason.github.io/thoughts/college/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://zhangmason.github.io/thoughts/college/</guid>
-      <description>College is over.
-Placeholder.</description>
     </item>
     
     <item>
