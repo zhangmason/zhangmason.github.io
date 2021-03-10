@@ -9,19 +9,19 @@
   
   <url>
     <loc>https://zhangmason.github.io/</loc>
-    <lastmod>2019-08-11T15:34:43-07:00</lastmod>
+    <lastmod>2020-01-12T23:49:47-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zhangmason.github.io/tags/</loc>
-    <lastmod>2019-08-11T15:34:43-07:00</lastmod>
+    <lastmod>2020-01-12T23:49:47-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zhangmason.github.io/thoughts/</loc>
-    <lastmod>2019-08-11T15:34:43-07:00</lastmod>
+    <lastmod>2020-01-12T23:49:47-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -33,29 +33,24 @@
   
   <url>
     <loc>https://zhangmason.github.io/tags/thoughts/</loc>
-    <lastmod>2019-08-11T15:34:43-07:00</lastmod>
+    <lastmod>2020-01-12T23:49:47-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zhangmason.github.io/about/</loc>
-    <lastmod>2019-07-23T22:38:46-07:00</lastmod>
+    <lastmod>2020-01-12T23:49:47-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://zhangmason.github.io/thoughts/ratings-2019/</loc>
-    <lastmod>2019-08-11T15:34:43-07:00</lastmod>
+    <lastmod>2020-01-12T23:49:47-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://zhangmason.github.io/tags/ratings/</loc>
-    <lastmod>2019-08-11T15:34:43-07:00</lastmod>
+    <lastmod>2020-01-12T23:49:47-08:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhangmason.github.io/projects/portal-mirrors/</loc>
-    <lastmod>2019-07-23T22:38:46-07:00</lastmod>
   </url>
   
   <url>
@@ -65,14 +60,14 @@
   </url>
   
   <url>
-    <loc>https://zhangmason.github.io/tags/projects/</loc>
+    <loc>https://zhangmason.github.io/projects/website/</loc>
     <lastmod>2019-07-23T22:38:46-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zhangmason.github.io/projects/website/</loc>
+    <loc>https://zhangmason.github.io/tags/projects/</loc>
     <lastmod>2019-07-23T22:38:46-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
