@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 25 Jun 2018 00:10:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://zhangmason.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Keyboards</title>
+      <link>https://zhangmason.github.io/projects/keyboards-2022/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/projects/keyboards-2022/</guid>
+      <description>Intro During the summer of 2020, I stumbled upon the mechanical keyboard hobby. I had heard about it before, but wrote it off as a waste of money. Who&amp;rsquo;d spend 150 bucks on some plastic keycaps?
+I guess having an engineering income changes you - I&amp;rsquo;d end up spending a few thousand in total on all my keyboard purchases.
+From the very beginning, the keyboard I had my eyes on was the Satisfaction75.</description>
+    </item>
+    
+    <item>
+      <title>Art 2022</title>
+      <link>https://zhangmason.github.io/projects/2022-art-journey/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhangmason.github.io/projects/2022-art-journey/</guid>
+      <description>Intro For the longest time, I&amp;rsquo;ve wanted to get into art. Every once in a while, I&amp;rsquo;d see amazing concept art online and get a brief burst of inspiration. I&amp;rsquo;d think to myself, &amp;ldquo;Damn, I wanna make something like that. But then I&amp;rsquo;d think about all the time and effort necessary to get to a professional level, and I&amp;rsquo;d give up before starting.
+I don&amp;rsquo;t know what changed, but at the end of last year (late December 2021), I finally found the motivation to get started.</description>
+    </item>
     
     <item>
       <title>Website</title>
